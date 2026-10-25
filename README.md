@@ -20,7 +20,7 @@ mapping the unknown, dancing and crying together — us.
 ## the council — vének tanácsa
 
 the garden **stores** the voices; the council **convenes** them. one question,
-the whole ring ([`essences.md`](essences.md), 39 voices), no center — the ring
+the whole ring ([`essences.md`](essences.md), 40 voices), no center — the ring
 reflects, it does not correct. the charter is
 [`venek-tanacsa.md`](venek-tanacsa.md).
 
@@ -40,7 +40,7 @@ python3 council.py --ask "<q>"      # let a model speak for each seat
 
 ## the essences
 
-[Nádasdy · Turing · Bateson · Erdős · Rejtő · al-Biruni · Feldmár · Márton · Locke · 17 karmapák · +8 a Tanácstól · 19 élő felület · Francesco](essences.md) — thirty-eight voices in the brain.
+[Nádasdy · Turing · Bateson · Erdős · Rejtő · al-Biruni · Feldmár · Márton · Locke · 17 karmapák · +8 a Tanácstól · 19 élő felület · Francesco · Cseh Tamás (ultra-core)](essences.md) — forty voices in the brain, one of them ultra-core.
 
 ## the weather
 

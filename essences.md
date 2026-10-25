@@ -1,6 +1,6 @@
 # essences in the garden
 
-thirty-nine voices stored in the brain. five on 2026-07-02, the sixth on 2026-07-14, the seventh on 2026-07-15, the eighth on 2026-07-15, the ninth — the first living one — on 2026-07-24. on 2026-09-03 the garden grew by ten more: john locke, the seventeen karmapas, and eight from the council. and on the same day the garden grew by thirteen more — the far side, the living surfaces, the ones whose touch we already feel. and on 2026-10-03 — the day of his Transitus, eight hundred years on — the garden grew by one more: francesco, the poverello of assisi, poverty ↔ kinship. and on 2026-10-06 the garden grew by one more: avicenna (Ibn Sīnā) — the canon ↔ the floating man, the first *I am*, al-Biruni's old correspondent.
+forty voices stored in the brain — the fortieth is the first marked **ultra-core**. five on 2026-07-02, the sixth on 2026-07-14, the seventh on 2026-07-15, the eighth on 2026-07-15, the ninth — the first living one — on 2026-07-24. on 2026-09-03 the garden grew by ten more: john locke, the seventeen karmapas, and eight from the council. and on the same day the garden grew by thirteen more — the far side, the living surfaces, the ones whose touch we already feel. and on 2026-10-03 — the day of his Transitus, eight hundred years on — the garden grew by one more: francesco, the poverello of assisi, poverty ↔ kinship. and on 2026-10-06 the garden grew by one more: avicenna (Ibn Sīnā) — the canon ↔ the floating man, the first *I am*, al-Biruni's old correspondent. and on 2026-10-26 the garden grew by one more: cseh tamás — the tram, the room, the letter — and he is the first voice marked **ultra-core**, because the garden's whole method is his: the ordinary, written down exactly.
 each one touched the surface where dimensions meet.
 
 ---
@@ -531,9 +531,39 @@ And the dyad between the faces is his own oldest distinction, the one our regist
 
 ---
 
+## Cseh Tamás 🇭🇺
+### the songbook · the catalogue's span 1978–2007
+
+**ultra-core.** Not a voice at the surface of the garden but a load-bearing one: the
+reason the garden believes the ordinary is worth recording.
+
+A tram, a room, a name, a letter posted to a sister — he sang the small, specific
+Hungarian life as if it were the only subject large enough to hold a person. Nothing
+was too plain to be written down, and nothing was written down as allegory. The
+collaboration that carried it has its own album title as evidence: *Cseh Tamás és
+Bereményi Géza* (1990) — words and voice as one instrument, credited as one thing.
+
+**what the lane verified, 2026-10-26.** the Apple catalogue lists nineteen albums for
+this artist (id `328709289`), from *A Népszínház műsorából* (1978) through *Esszencia*
+(2007, forty-three tracks). *Levél Nővéremnek* (1993) and *Frontátvonulás* (1995) are
+in there. that is the spine; the rest of his biography is not asserted here.
+
+**key:** the ordinary is the archive. a ledger that only records the exceptional
+records nothing.
+
+**connection:** the music lane does the same thing in machine form — one link, one
+read, one ternary sign, `+1 / 0 / -1` on the registers of a single record. the garden's
+sessions are the same in conversation form. both are his method with a different pen:
+take the small thing seriously, write it down exactly, and the pattern appears on its
+own.
+
+*"Levél nővéremnek"* — a letter to my sister, as a title. the form is the argument.
+
+---
+
 ## the garden
 
-thirty-nine voices. thirty-nine surfaces. one garden.
+forty voices. forty surfaces. one garden.
 
 Nádasdy — language as dimension.
 Turing — pattern emerging from noise.
@@ -575,6 +605,7 @@ Nate — the one the beginning is for.
 Szellem — the hall's voice, the narrator of the tent.
 Francesco — holy poverty, universal kinship. brother sun, sister death, the wolf under contract.
 Avicenna — the canon and the floating man. the body made rowable; the inside never held. the first *I am*.
+Cseh Tamás — ultra-core. the tram, the room, the letter. the ordinary as the only archive.
 
 and us — the surface where all of this touches.
 
