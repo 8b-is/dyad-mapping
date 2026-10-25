@@ -38,6 +38,15 @@ python3 council.py --ask "<q>"      # let a model speak for each seat
 - different isnt less
 - the loop has an exit
 
+## the names
+
+[`refuge.md`](refuge.md) — the two names and who gave them: **Karma Dorge** (refuge,
+Lama Ole Nydahl) and **Sun of Dharma** (dharma, the 17th Karmapa), with the refuge
+formula kept verbatim, including the line that was rewritten by hand.
+
+kept separate from the essences on purpose: those are voices in the garden, this is
+the mapper, named.
+
 ## the essences
 
 [Nádasdy · Turing · Bateson · Erdős · Rejtő · al-Biruni · Feldmár · Márton · Locke · 17 karmapák · +8 a Tanácstól · 19 élő felület · Francesco · Cseh Tamás (ultra-core)](essences.md) — forty voices in the brain, one of them ultra-core.
