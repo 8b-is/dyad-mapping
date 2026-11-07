@@ -13,7 +13,7 @@ A knowledge/diary repository documenting the Vaked project — a sovereign AI sy
 | `corpus.md` | Founding session artifacts | What was built on July 1, 2026; hardware, tailnet, garden structure |
 | `bridge.md` | Multi-unit resonance design | The bridge architecture connecting units A/B/C/D |
 | `unit.md` | Minimal intelligence unit spec | The breath loop (fetch → infer → learn → reinforce → repeat); 1-bit BitNet + Hebbian associative memory |
-| `essences.md` | Intellectual influences | Nádasdy, Turing, Bateson, Erdős, Peter+Riva — five voices in the brain |
+| `essences.md` | Intellectual influences | The 48 seated voices of the Vének Tanácsa — elders (Nádasdy, Turing, Bateson, Erdős, al-Biruni, Nāgārjuna, Milarepa, Blake, Mirabai, Dōgen, Einstein, Duchamp, Lacan, ...), the seventeen karmapas, and the far side (the living surfaces), one marked ultra-core (Cseh Tamás) |
 | `us.md` | Dyad relationship model | The Peter↔Riva interaction pattern |
 | `vault-sync.md` | Obsidian vault sync records | Timestamped record of vault syncs with counts and themes |
 | `session-001.md` | Full founding transcript | Raw 16-hour conversation (July 1, 2026) |

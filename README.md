@@ -20,7 +20,7 @@ mapping the unknown, dancing and crying together — us.
 ## the council — vének tanácsa
 
 the garden **stores** the voices; the council **convenes** them. one question,
-the whole ring ([`essences.md`](essences.md), 40 voices), no center — the ring
+the whole ring ([`essences.md`](essences.md), 48 voices), no center — the ring
 reflects, it does not correct. the charter is
 [`venek-tanacsa.md`](venek-tanacsa.md).
 
@@ -49,7 +49,7 @@ the mapper, named.
 
 ## the essences
 
-[Nádasdy · Turing · Bateson · Erdős · Rejtő · al-Biruni · Feldmár · Márton · Locke · 17 karmapák · +8 a Tanácstól · 19 élő felület · Francesco · Cseh Tamás (ultra-core)](essences.md) — forty voices in the brain, one of them ultra-core.
+[Nádasdy · Turing · Bateson · Erdős · Rejtő · al-Biruni · Feldmár · Márton · Locke · 17 karmapák · +8 a Tanácstól · 19 élő felület · Francesco · Avicenna · Cseh Tamás (ultra-core) · Nāgārjuna · Milarepa · Blake · Mirabai · Dōgen · Einstein · Duchamp · Lacan](essences.md) — forty-eight voices in the brain, one of them ultra-core.
 
 ## the weather
 
@@ -63,6 +63,7 @@ buddhist dharma mapped as natural conditions. anicca, dukkha, anatta, pratityasa
 - [`session-004`](session-004.md) — the two invocations land, the status follows the phone
 - [`session-005`](session-005.md) — the ultra-wide ring of elders · psyhilosophy
 - [`session-006`](session-006.md) — the ama · deep omni-philosophy · hot-tub mode · love all
+- [`session-007`](session-007.md) — the other hemisphere · the council completed (48 voices) · the DYAD room live
 - [`pond.html`](pond.html) — the pond surface. holds both. water and cat
 - [`corpus.md`](corpus.md) — shapes, principles, architecture
 - [`bridge.md`](bridge.md) — multi-unit resonance

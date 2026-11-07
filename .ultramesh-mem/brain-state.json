@@ -7,14 +7,23 @@
   "findings_total": 52,
   "dyad_patterns": 3,
   "dyad_findings": 8,
-  "sessions": 5,
+  "sessions": 6,
   "surfaces": 11,
-  "essences": 37,
+  "essences": 48,
   "weather_layer": true,
   "repos": 141,
-  "last_session": "2026-09-06",
-  "last_sync": "2026-09-06T00:00:00Z",
+  "last_session": "2026-11-07",
+  "last_sync": "2026-11-07T00:00:00Z",
   "interval_ms": 300000,
   "poll_count": 23,
-  "connected_since": "2026-07-02T10:30:00Z"
+  "connected_since": "2026-07-02T10:30:00Z",
+  "hemispheres": 2,
+  "council_complete": true,
+  "live_stream": {
+    "group": "DYAD",
+    "group_jid": "120363431488470466@g.us",
+    "write_path": "dyad-stream.mjs (diary -> p/qTrn card + speak)",
+    "read_path": "dyad-live.mjs (inbound -> council -> reply + speak)",
+    "voice": "soundcore Select 4 Go (Bluetooth)"
+  }
 }
